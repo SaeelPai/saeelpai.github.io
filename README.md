@@ -1,12 +1,11 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
-
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+## About Myself
+I am a PhD student at Purdue University’s School of Mechanical Engineering, and am a part of the [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC/research/index.php), under the advisement of [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578). I am interested in thermal sciences and fluid mechanics, and am presently working in the area of thermal management of electronic devices, which is the perfect confluence of my interests. I am also very interested in mathematics, and am working on using machine-learning techniques to enhance the design optimization processes of thermal management components for various electronic devices.
 
 ## Features
 
@@ -21,27 +20,14 @@ Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adj
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Education
+-Purdue University (2019 - present)
+ PhD in Mechanical Engineering
+ Adviser: Prof. Justin A. Weibel
+ Indian Institute of Technology, Madras
 
-## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
 
 ## Config
 
