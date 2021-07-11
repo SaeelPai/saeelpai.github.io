@@ -1,6 +1,6 @@
 title: "Saeel Pai"
 author: "Saeel Pai"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "PhD Student, Purdue University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pai15@purdue.edu"}
-  - {title: LinkedIn, url: "https://www.linkedin.com/in/saeelpai/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/saeelpai/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
