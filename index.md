@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Saeel Pai"
+title: ""
 ---
 
 <p align="center">
