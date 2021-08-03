@@ -16,8 +16,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
- - {title: "CV", url: "https://raw.githubusercontent.com/SaeelPai/saeelpai.github.io/master/Saeel_CV.pdf"}
+ - {file: "research.md", title: "Research"}
  - {file: "README.md", title: "Projects"}
+ - {title: "CV", url: "https://raw.githubusercontent.com/SaeelPai/saeelpai.github.io/master/Saeel_CV.pdf"}
+
+ 
  
 
 
@@ -25,6 +28,11 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:pai15@purdue.edu"}
   - {title: Github, icon: github, url: "https://github.com/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/saeelpai/"}
+  
+.fl-page-footer .fl-social-icons .fa-stack {
+  font-size: 30px;
+  width: 80px;
+}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
