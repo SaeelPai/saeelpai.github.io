@@ -9,7 +9,7 @@ title: "Some Interesting Projects"
 *Competition entry for the ASME K-16/IEEE EPS Student Heat Sink Design Challenge 2020\
 (Winner at the international level)*\
 Other team members: [Soumya Bandyopadhyay](https://engineering.purdue.edu/CTRC/research/staff_bios/soumya_bandy.php){:target="_blank"}, [Julia Meyer](https://www.linkedin.com/in/julia-meyer/){:target="_blank"} and [Adeline Naon](https://www.linkedin.com/in/adeline-naon-2021/){:target="_blank"}\
-Faculty mentor: Justin A. Weibel
+Faculty mentor: [Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}
   
 <img align="left" src="/manufactured_hs.png" width = 260>
   
@@ -23,7 +23,7 @@ Faculty mentor: Justin A. Weibel
   
 ### Thermal Management Strategies for Next Generation Smartwatches [[pdf](/ME511_report.pdf){:target="_blank"}]
 *ME511 course project* \
-Mentor: Justin A. Weibel
+Mentor: [Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}
    
 A new design for next-generation smartwatches, where not just the casing but also the belt is used to dissipate heat, was proposed and its performance was analyzed. Using a steady state analysis, it was shown that the proposed design has better thermal management capabilities than the existing devices. As compared to the peak power of 0.5W in the state-of-the-art smartwatches available today, the proposed design is able to sustain a continuous steady state operation at peak powers of about 1.65W, which is more than three times the maximum power in present devices. 
    
