@@ -22,7 +22,7 @@ and Thermomechanical Phenomena in Electronic Systems (ITherm), Las Vegas, USA, M
 
 ## Past Work
 ### Undergrad Thesis
-- **Towards Efficient Computation of Rarefied Flows using Field Inversion and Machine Learning Techniques** [[pdf](/btech_thesis.pdf){:target="_blank"}]\
+- **Towards Efficient Computation of Rarefied Flows using Field Inversion and Machine Learning Techniques** [[pdf](/BTP_report.pdf){:target="_blank"}]
   Advisor: Prof. Balaji Srinivasan, Department of Mechanical Engineering, IIT Madras
   
   This work used machine learning methods to bypass the need for expensive high-fidelity computations which are needed for accurate flow description of rarefied flows.
