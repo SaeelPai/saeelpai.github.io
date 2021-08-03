@@ -3,20 +3,18 @@ layout: page
 title: ""
 ---
 
-<p align="center">
-  <img width="700" src="sp3.jpg">
-</p>
+<img align="left" width="100" src="sp2.jpg">
 
-I am a PhD student at Purdue University’s School of Mechanical Engineering, and am a part of the [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC/research/index.php), under the advisement of [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578). I am interested in thermal sciences and fluid mechanics, and am presently working in the area of thermal management of electronic devices, which is the perfect confluence of my interests. I am also very interested in mathematics, and am working on using machine-learning techniques to enhance the design optimization processes of thermal management components for various electronic devices.
+I am a PhD student at Purdue University’s School of Mechanical Engineering, and am a part of the [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC/research/index.php){:target="_blank"}, under the advisement of [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}. I am interested in thermal sciences and fluid mechanics, and am presently working in the area of thermal management of electronic devices, which is the perfect confluence of my interests. I am also very interested in mathematics, and am working on using machine-learning techniques to enhance the design optimization processes of thermal management components for various electronic devices.
 
 ## Education
 - Purdue University (2019 - present)\
   PhD in Mechanical Engineering\
-  Adviser: [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578)
+  Adviser: [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}
 - Indian Institute of Technology, Madras\
   BTech in Mechanical Engineering\
   Thesis Topic: Towards Efficient Computation of Rarefied Flows using Field Inversion and Machine Learning Techniques\
-  Adviser: [Prof. Balaji Srinivasan](https://mech.iitm.ac.in/meiitm/personnal/dr-balaji-srinivasan/)
+  Adviser: [Prof. Balaji Srinivasan](https://mech.iitm.ac.in/meiitm/personnal/dr-balaji-srinivasan/){:target="_blank"}
 
 ## Selected Awards
 - Outstanding Poster Award (Emerging Technologies & Fundamentals Track), ITherm 2021
