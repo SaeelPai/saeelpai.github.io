@@ -5,7 +5,7 @@ title: "Some Interesting Projects"
 
 ---
 
-**<span style="font-size:1em">The Tempest: An Air-Breathing Heat Sink</span>**\
+**<span style="font-size:2em">The Tempest: An Air-Breathing Heat Sink</span>**\
 *Competition entry for the ASME K-16/IEEE EPS Student Heat Sink Design Challenge 2020\
 (Winner at the international level)*\
 Other team members: [Soumya Bandyopadhyay](https://engineering.purdue.edu/CTRC/research/staff_bios/soumya_bandy.php){:target="_blank"}, [Julia Meyer](https://www.linkedin.com/in/julia-meyer/){:target="_blank"} and [Adeline Naon](https://www.linkedin.com/in/adeline-naon-2021/){:target="_blank"}\
