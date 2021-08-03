@@ -8,10 +8,10 @@ title: "Some Interesting Projects"
 - **The Tempest: An Air-Breathing Heat Sink**\
   *Competition entry for the ASME K-16/IEEE EPS Student Heat Sink Design Challenge 2020\
   (Winner at the international level)*\
-  Other team members: Soumya Bandyopadhyay, Julia Meyer and Adeline Naon\
+  Other team members: [Soumya Bandyopadhyay](https://engineering.purdue.edu/CTRC/research/staff_bios/soumya_bandy.php), [Julia Meyer](https://www.linkedin.com/in/julia-meyer/) and [Adeline Naon](https://www.linkedin.com/in/adeline-naon-2021/)\
   Faculty mentor: Justin A. Weibel
   
-  <img src="/heatsink.png" width = 200>
+  <img align="left" src="/manufactured_hs.png" width = 250>
   
   - Designed a novel forced convection heat sink by taking inspiration from Formula 1 cars, shark fins and human lungs, by exploiting the capabilities of metal 3D printing techniques.
   - Was designed on the concept of flushing heated air out midway through the heat sink and taking in fresh cool air through sidepods, much like F1 cars.
