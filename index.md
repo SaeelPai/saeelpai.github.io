@@ -4,7 +4,7 @@ title: ""
 ---
 
 
-<img src="/sp4.JPG" align="left" width="400" alt="picture">
+<img src="/sp4.JPG" align="left" width="420" alt="picture">
 
     
 
