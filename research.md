@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 layout: page
-title: "Research"
+title: ""
 
 ---
 
@@ -16,6 +16,16 @@ Till now, I have
 Currently I am generating training data for heat transfer and pressure drop characteristics of three dimensionally varying flow geometries using automated numerical simulations.
 
 ## Publications
-- S.S. Pai, D. Visaria, J.A. Weibel, “A machine-learning-based surrogate model for internal flow Nusselt number and friction factor in various channel cross sections” The IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), June 2021.
-- S. Ozguc, S.S. Pai, J.A. Weibel, L. Pan, “Experimental Demonstration of an Additively Manufactured Vapor Chamber Heat Spreader”, The IEEE Intersociety Conference on Thermal
+- **S.S. Pai**, D. Visaria, J.A. Weibel, “A machine-learning-based surrogate model for internal flow Nusselt number and friction factor in various channel cross sections” The IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), June 2021.
+- S. Ozguc, **S.S. Pai**, J.A. Weibel, L. Pan, “Experimental Demonstration of an Additively Manufactured Vapor Chamber Heat Spreader”, The IEEE Intersociety Conference on Thermal
 and Thermomechanical Phenomena in Electronic Systems (ITherm), Las Vegas, USA, May 2019
+
+## Past Work
+### Undergrad Thesis
+- **Towards Efficient Computation of Rarefied Flows using Field Inversion and Machine Learning Techniques** [[pdf](/btech_thesis.pdf){:target="_blank"}]\
+  Advisor: Prof. Balaji Srinivasan, Department of Mechanical Engineering, IIT Madras
+  
+  This work used machine learning methods to bypass the need for expensive high-fidelity computations which are needed for accurate flow description of rarefied flows.
+  - Successfully implemented the technique of ‘Field Inversion and Machine Learning’ on different cases of heat transfer and used it to model the structure of an acoustic shock wave.
+  - The Maximum Likelihood Estimation approach was used to develop an Artificial Neural Network model to predict the flow of rarefied gas around a spherical body.
+
