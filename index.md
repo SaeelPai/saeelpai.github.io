@@ -33,7 +33,7 @@ Mechanical Engineering, IIT Madras
 - Kishore Vaigyanik Protsahan Yojana fellowship (KVPY) 2014, awarded by the Govt. of India
 - National Talent Search Examination (NTSE) scholarship 2011, awarded by the Govt. of India
 
-## Professional Experiance
+## Professional Experience
 - Graduate Research Assistant, Purdue University, USA *(Aug 2019-present)*
 - Physics Guest Lecturer, Mushtifund Aryaan HSS, India *(May 2019-Jul 2019)*
 - Visiting Scholar, The Ohio State University, USA *(May 2018-Jul 2018)*
