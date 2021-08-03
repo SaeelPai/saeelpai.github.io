@@ -25,7 +25,7 @@ Mentor: Justin A. Weibel
    
 A new design for next-generation smartwatches, where not just the casing but also the belt is used to dissipate heat, was proposed and its performance was analyzed. Using a steady state analysis, it was shown that the proposed design has better thermal management capabilities than the existing devices. As compared to the peak power of 0.5W in the state-of-the-art smartwatches available today, the proposed design is able to sustain a continuous steady state operation at peak powers of about 1.65W, which is more than three times the maximum power in present devices. 
    
-<img align="left" src="/labeled_watch.JPG" width = 260> 
+<img align="left" src="/labeled_watch.JPG" width = 400> 
 
 The salient features of the new design are:
 - **Watch belts as heat exchange surfaces** to increase the area from which natural convection takes place, cause in devices which rely on natural convection, the outer casing to ambient resistance is the major bottleneck.
