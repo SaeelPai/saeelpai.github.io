@@ -29,10 +29,10 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/saeelpai/"}
   
-.fl-page-footer .fl-social-icons .fa-stack {
-  font-size: 30px;
-  width: 80px;
-}
+#.fl-page-footer .fl-social-icons .fa-stack {
+#  font-size: 30px;
+#  width: 80px;
+#}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
