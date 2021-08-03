@@ -3,9 +3,11 @@ layout: page
 title: ""
 ---
 
-<img align="left" width="100" src="sp2.jpg">
+<img align="left" width="600" src="sp3.jpg">
 
 I am a PhD student at Purdue University’s School of Mechanical Engineering, and am a part of the [Cooling Technologies Research Center](https://engineering.purdue.edu/CTRC/research/index.php){:target="_blank"}, under the advisement of [Prof. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}. I am interested in thermal sciences and fluid mechanics, and am presently working in the area of thermal management of electronic devices, which is the perfect confluence of my interests. I am also very interested in mathematics, and am working on using machine-learning techniques to enhance the design optimization processes of thermal management components for various electronic devices.
+
+&nbsp;
 
 ## Education
 - Purdue University (2019 - present)\
@@ -35,4 +37,4 @@ Mechanical Engineering, IIT Madras
 - Physics Guest Lecturer, Mushtifund Aryaan HSS, India *(May 2019-Jul 2019)*
 - Visiting Scholar, The Ohio State University, USA *(May 2018-Jul 2018)*
 - Research Intern, Purdue University, USA *(May 2017-Jul 2017)*
-- Product Development Intern, Detect Technologies, India *(Jun 2016-Jul 2016)*
+- Product Development Intern, [Detect Technologies](https://detecttechnologies.com/){:target="_blank"}, India *(Jun 2016-Jul 2016)*
