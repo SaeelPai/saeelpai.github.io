@@ -24,7 +24,7 @@ Faculty mentor: [Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptPr
 
 **<font size="4"> Thermal Management Strategies for Next Generation Smartwatches </font>** [[pdf](/ME511_report.pdf){:target="_blank"}]\
 *ME511 course project*\
-Mentor: [Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}
+Guide: [Dr. Justin A. Weibel](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=78578){:target="_blank"}
    
 A new design for next-generation smartwatches, where not just the casing but also the belt is used to dissipate heat, was proposed and its performance was analyzed. Using a steady state analysis, it was shown that the proposed design has better thermal management capabilities than the existing devices. As compared to the peak power of 0.5W in the state-of-the-art smartwatches available today, the proposed design is able to sustain a continuous steady state operation at peak powers of about 1.65W, which is more than three times the maximum power in present devices. 
    
@@ -33,7 +33,20 @@ A new design for next-generation smartwatches, where not just the casing but als
 The salient features of the new design are:
 - **Watch belts as heat exchange surfaces** to increase the area from which natural convection takes place, cause in devices which rely on natural convection, the outer casing to ambient resistance is the major bottleneck.
 - **Vapor chambers** for heat spreading inside the device.
-- **PCM** inside the watch body to deal with the sudden burst of power during the frequent but short-lived awake state.
+- **Phase Change Material** inside the watch body to deal with the sudden burst of power during the frequent but short-lived awake state.
+
+**<font size="4"> Particle Decay Classification Using Machine Learning </font>** \
+*CS578 course project*\
+Guide: [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/){:target="_blank"}
+
+- Open-source data from the ATLAS Experiment was used to classify events into ‘tau-tau decay’ and ‘background noise’ using three machine learning algorithms-kernel dual SVM, AdaBoost and Gaussian Mixture Models, and their classification capabilities were compared
+
+**<font size="4"> Thermal Analysis of Clay Firing Process </font>**\
+*ME505 course project*\
+Guide: [Prof. Amy Marconnet](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=86360){:target="_blank"}                               
+
+- Obtained the transient temperature profile inside a kaolin-based ceramic plate during the firing process using analytical techniques, verified it using numerical method, and predicted the maximum permissible firing and cooling rates to prevent cracking due to thermal shocks
+
   
   
   
