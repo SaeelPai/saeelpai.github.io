@@ -29,3 +29,21 @@ and Thermomechanical Phenomena in Electronic Systems (ITherm), Las Vegas, USA, M
   - Successfully implemented the technique of ‘Field Inversion and Machine Learning’ on different cases of heat transfer and used it to model the structure of an acoustic shock wave.
   - The Maximum Likelihood Estimation approach was used to develop an Artificial Neural Network model to predict the flow of rarefied gas around a spherical body.
 
+### Research Internship (at The Ohio State University, summer 2018)
+- **Device Fabrication and Electrical Characterization of Vessel Function Within Bifurcating Microfluidic Channels** (not sure if I can share the presentation on a public place. Contains images of work done in Prof. Prakash's lab).\
+  Guides: Prof. Shaurya Prakash, Prof. Jonathan Song, Department of Mechanical and Aerospace Engineering
+  
+  This work focused on developing the trans endothelial electrical resistance measurement technique to study the endothelial barrier function in bifurcated vessels, the breakdown of which is linked to various diseases like multiple sclerosis, cancer, etc.
+  - Fabricated microfluidic devices using soft lithography and plasma oxidation and used them to make in vitro models of blood vessels using HUVECs. Also learnt the basics of cell culture.
+  - Used Electrochemical Impedance Spectroscopy (EIS) to study the vessel barrier function and suggested a new design for the microfluidic device to improve the quality of the EIS results.
+
+### Research Internship (at Purdue University, summer 2017)
+- **Characterisation of 3D Printed Vapour Chamber Heat Spreaders**[[one-slider](/Saeel_final.pdf){:target="_blank"}]
+  Guides: Prof. Justin A. Weibel, Prof. Suresh V. Garimella, School of Mechanical Engineering
+  
+  Metal 3D printing holds promise in thermal management application by allowing integrated manufacturing of vapor chamber heat spreaders with the processor package. I worked on building the charging facility needed for studying the performance of these vapor chambers.
+  - Designed and fabricated a Fluid Charging Station for evacuating 3D printed vapor chambers and filling them with a precise volume of degassed fluid, and wrote down its User’s Manual.
+  - Designed the vapor chamber heat spreader which was to be 3D printed.
+
+
+
