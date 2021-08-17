@@ -38,7 +38,7 @@ and Thermomechanical Phenomena in Electronic Systems (ITherm), Las Vegas, USA, M
   - Used Electrochemical Impedance Spectroscopy (EIS) to study the vessel barrier function and suggested a new design for the microfluidic device to improve the quality of the EIS results.
 
 ### Research Internship (at Purdue University, summer 2017)
-- **Characterisation of 3D Printed Vapour Chamber Heat Spreaders**[[one-slider](/Saeel_final.pdf){:target="_blank"}]
+- **Characterisation of 3D Printed Vapour Chamber Heat Spreaders**[[one-slider](/Saeel_final.pdf){:target="_blank"}]\
   Guides: Prof. Justin A. Weibel, Prof. Suresh V. Garimella, School of Mechanical Engineering
   
   Metal 3D printing holds promise in thermal management application by allowing integrated manufacturing of vapor chamber heat spreaders with the processor package. I worked on building the charging facility needed for studying the performance of these vapor chambers.
