@@ -20,6 +20,7 @@ I am a PhD student at Purdue University’s School of Mechanical Engineering, an
   Adviser: [Prof. Balaji Srinivasan](https://mech.iitm.ac.in/meiitm/personnal/dr-balaji-srinivasan/){:target="_blank"}
 
 ## Selected Awards
+- Best Solution Award, Smoky Mountains Data Challenge, Smoky Mountains Computational Sciences and Engineering Conference 2021, organized by ORNL
 - Outstanding Poster Award (Emerging Technologies & Fundamentals Track), ITherm 2021
 - ASME K-16/IEEE EPS Student Heat Sink Design Challenge 2020 Winner
 - Frederick N. Andrew’s Fellowship at Purdue University, USA in 2019
