@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
  - {file: "research.md", title: "Research"}
  - {file: "README.md", title: "Projects"}
- - {title: "CV", url: "https://raw.githubusercontent.com/SaeelPai/saeelpai.github.io/master/SaeelPai_CV.pdf"}
+ - {title: "CV", url: "https://raw.githubusercontent.com/SaeelPai/saeelpai.github.io/master/SaeelPai_CV_Nov2021.pdf"}
 
  
  
