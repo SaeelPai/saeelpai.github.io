@@ -19,6 +19,7 @@ Currently I am generating training data for heat transfer and pressure drop char
 - **S.S. Pai**, D. Visaria, J.A. Weibel, “A machine-learning-based surrogate model for internal flow Nusselt number and friction factor in various channel cross sections” The IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), June 2021.
 - S. Ozguc, **S.S. Pai**, J.A. Weibel, L. Pan, “Experimental Demonstration of an Additively Manufactured Vapor Chamber Heat Spreader”, The IEEE Intersociety Conference on Thermal
 and Thermomechanical Phenomena in Electronic Systems (ITherm), Las Vegas, USA, May 2019
+- A. Patel, **S. S. Pai**, H. R. Rajamohan, M. Bongarala, R. Samyak, “Finding novel links in COVID-19 graph using graph embedding techniques” Springer Communications in Computer and Information Science (under review)
 
 ## Past Work
 ### Undergrad Thesis
